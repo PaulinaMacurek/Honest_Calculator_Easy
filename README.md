@@ -22,4 +22,4 @@ Now, it is time to tell users what the calculator thinks about equations.
 Electricity costs money, the processor overheats, the memory fills up, so you have to watch what users want to store.
 
 ### Demo
-in few days...
+![Alt-текст](https://github.com/PaulinaMacurek/Honest_Calculator_Easy/blob/main/DEMO.gif "Demo")
